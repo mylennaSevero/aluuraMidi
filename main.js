@@ -3,3 +3,4 @@ function tocaSom (idElementoAudio) {
 } 
 
 const listaDeTeclas = document.querySelectorAll('.tecla');
+//para
